@@ -1,0 +1,7 @@
+GitPython==3.1.43
+Typer==0.12.3
+click<8.2,>=8.0.0
+rich==13.7.1
+tqdm==4.66.4
+lizard==1.17.10
+matplotlib==3.9.2
